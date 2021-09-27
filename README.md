@@ -6,7 +6,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Live Heroku App](#Live Heroku Application)
+  * [Live Heroku App](#LiveHerokuApplication)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
