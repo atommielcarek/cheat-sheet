@@ -2,7 +2,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  As a samll business owner I want to be able to write and save notes so that I can organize my thoughts and keep track of tasks I need to complete.                                                                                                                                                                                                                                                        
+  As a small business owner I want to be able to write and save notes so that I can organize my thoughts and keep track of tasks I need to complete.                                                                                                                                                                                                                                                        
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
